@@ -36,6 +36,6 @@ pip install pandas
 
 2. Navigate to the project directory: vcd web-scraping-netflix-movies
 
-3. Run the Python script: python scrape_netflix_movies.py
+3. Run the Python script: python netflixMovies.py
 
 4. The script will fetch data from the specified URL and save it as an Excel file in the same directory.
